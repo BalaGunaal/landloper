@@ -359,7 +359,7 @@ body {
   .card:hover .card_side-two {
     transform: rotateY(0); }
   .card_img {
-    background-image: linear-gradient(to right bottom, #00A8CC, #4D089A), url("../img/nat-5.jpg");
+    background-image: linear-gradient(to right bottom, #00A8CC, #4D089A), url("img/nat-5.jpg");
     -webkit-background-blend-mode: screen;
     background-blend-mode: screen;
     background-size: cover;
@@ -476,7 +476,7 @@ body {
   .card2:hover .card2_side-two {
     transform: rotateY(0); }
   .card2_img {
-    background-image: linear-gradient(to right bottom, #ffe75e, #b7472a), url("../img/nat-7.jpg");
+    background-image: linear-gradient(to right bottom, #ffe75e, #b7472a), url("img/nat-7.jpg");
     -webkit-background-blend-mode: screen;
     background-blend-mode: screen;
     background-size: cover;
@@ -593,7 +593,7 @@ body {
   .card3:hover .card3_side-two {
     transform: rotateY(0); }
   .card3_img {
-    background-image: linear-gradient(to right bottom, #79bac1, #527318), url("../img/nat-6.jpg");
+    background-image: linear-gradient(to right bottom, #79bac1, #527318), url("img/nat-6.jpg");
     -webkit-background-blend-mode: screen;
     background-blend-mode: screen;
     background-size: cover;
