@@ -1276,7 +1276,7 @@ body {
 .section-features {
   padding: 20rem 0;
   box-shadow: 0 1.5rem 2rem rgba(241, 189, 31, 0.2);
-  background-image: linear-gradient(to right, rgba(241, 147, 92, 0.4), rgba(184, 71, 42, 0.55)), url("img/nat-4.jpg");
+  background-image: linear-gradient(to right, rgba(241, 147, 92, 0.4), rgba(184, 71, 42, 0.55)), url("https://github.com/BalaGunaal/landloper/blob/master/img/nat-4.jpg");
   background-size: cover;
   position: relative;
   margin-top: -15vh;
